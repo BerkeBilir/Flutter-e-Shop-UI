@@ -1,6 +1,6 @@
-# flutter_1
+# Flutter eCommerce App UI
 
-A new Flutter project.
+Flutter eCommerce App UI.
 
 ## Getting Started
 
